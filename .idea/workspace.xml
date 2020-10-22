@@ -20,18 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d8b1cac-15b5-4ee2-be61-e1ff94791e31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flaskblog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flask-blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/site.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -79,8 +78,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2361" y="367" key="#Notifications" timestamp="1603392814815">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2361" y="367" key="#Notifications/1680.23.1920.1057/0.23.1680.922@1680.23.1920.1057" timestamp="1603392814815" />
     <state x="2368" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603053193240">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>

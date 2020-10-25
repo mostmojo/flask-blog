@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d8b1cac-15b5-4ee2-be61-e1ff94791e31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/flaskblog/templates/account.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskblog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskblog/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,9 +84,10 @@
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2368" y="344" key="#com.intellij.fileTypes.FileTypeChooser/1680.23.1920.1057/0.23.1680.926@1680.23.1920.1057" timestamp="1603053193240" />
-    <state x="2125" y="174" key="SettingsEditor" timestamp="1603057070132">
+    <state x="2125" y="174" key="SettingsEditor" timestamp="1603657193541">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
+    <state x="2125" y="174" key="SettingsEditor/1680.23.1920.1057/0.23.1680.922@1680.23.1920.1057" timestamp="1603657193541" />
     <state x="2125" y="174" key="SettingsEditor/1680.23.1920.1057/0.23.1680.926@1680.23.1920.1057" timestamp="1603057070132" />
     <state x="2323" y="167" width="586" height="735" key="find.popup" timestamp="1603056852214">
       <screen x="1680" y="23" width="1920" height="1057" />

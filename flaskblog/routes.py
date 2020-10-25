@@ -12,7 +12,7 @@ posts = [
         'date_posted': 'April 20, 2020'
     },
     {
-        'author': 'Meila Feila',
+        'author': 'Meila Ftella',
         'title': 'The Sus Chronicles',
         'content': 'Did you vent? I saw you vent and lurk around medbay.',
         'date_posted': 'April 25, 2020'

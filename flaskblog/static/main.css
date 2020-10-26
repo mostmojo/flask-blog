@@ -23,7 +23,7 @@ h6 {
 }
 
 .site-header .navbar-nav .nav-link {
-	color: #dbcbf2;
+	color: #e0d3f4;
 }
 
 .site-header .navbar-nav .nav-link:hover {
@@ -94,7 +94,9 @@ a.article-title:hover {
     border-color: #7E57C2;
 }
 
-.btn-outline-info:hover {
+.btn-outline-info:hover,
+ .btn-outline-info:active,
+ .btn-outline-info:focus {
     background: #7E57C2;
     border-color: #7E57C2;
 }

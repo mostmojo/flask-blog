@@ -96,7 +96,13 @@ a.article-title:hover {
 
 .btn-outline-info:hover,
  .btn-outline-info:active,
- .btn-outline-info:focus {
+ .btn-outline-info:focus,
+ btn-outline-info:not(:disabled):not(.disabled):active {
+    background: #7E57C2;
+    border-color: #7E57C2;
+}
+
+btn-outline-info:not(:disabled):not(.disabled):active {
     background: #7E57C2;
     border-color: #7E57C2;
 }

@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color: #8763B8;
+	color: #8763B8;
 }
 
 h1,
@@ -90,19 +90,19 @@ a.article-title:hover {
 }
 
 .btn-outline-info {
-    color: #7E57C2;
-    border-color: #7E57C2;
+	color: #7E57C2;
+	border-color: #7E57C2;
 }
 
 .btn-outline-info:hover,
- .btn-outline-info:active,
- .btn-outline-info:focus,
- btn-outline-info:not(:disabled):not(.disabled):active {
-    background: #7E57C2;
-    border-color: #7E57C2;
+.btn-outline-info:active,
+.btn-outline-info:focus,
+btn-outline-info:not(:disabled):not(.disabled):active {
+	background: #7E57C2;
+	border-color: #7E57C2;
 }
 
 btn-outline-info:not(:disabled):not(.disabled):active {
-    background: #7E57C2;
-    border-color: #7E57C2;
+	background: #7E57C2;
+	border-color: #7E57C2;
 }
